@@ -1,2 +1,19 @@
-#网易云移动端仿写
-前端项目联系，可用于期末大作业后续会陆续进行改进和更新
+# cloudmusic
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
